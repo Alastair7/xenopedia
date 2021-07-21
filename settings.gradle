@@ -1,0 +1,2 @@
+rootProject.name = "Xenopedia"
+include ':app'

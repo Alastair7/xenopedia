@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- APP COLORS -->
+    <color name="gable_green">#1A2D38</color>
+    <color name="gable_green_darker">#152732</color>
+    <color name="malibu">#6AC4FC</color>
+    <color name="curious_blue">#2E8EC9</color>
+    <color name="curious_blue_light">#3998D4</color>
+    <color name="pelorous">#4D96C4</color>
+
+    <!-- SHADE COLORS -->
+    <color name="mirage">#15242D</color>
+    <color name="onahau">#D2EDFE</color>
+    <color name="blumine">#1C5579</color>
+    <color name="link_water">#D7EAF6</color>
+    <color name="san_marino">#3E789D</color>
+
+    <!-- BUTTONS COLORS -->
+    <color name="button_background_color">@color/malibu</color>
+    <color name="button_background_text">@color/gable_green_darker</color>
+
+    <!-- APP BACKGROUND COLORS -->
+    <color name="background_color_gradient1">@color/gable_green</color>
+    <color name="background_color_gradient2">@color/mirage</color>
+
+    <!-- ICON BACKGROUND COLORS -->
+    <color name="icon_background_color_gradient1">@color/curious_blue</color>
+    <color name="icon_background_color_gradient2">@color/blumine</color>
+
+    <!-- LIST VIEW COLORS -->
+    <color name="listview_background_color">@color/link_water</color>
+    <color name="element_background_color">@color/curious_blue</color>
+    <color name="element_text_color">@color/black</color>
+
+    <!-- TITLES COLOR -->
+    <color name="titles_color">@color/link_water</color>
+
+</resources>

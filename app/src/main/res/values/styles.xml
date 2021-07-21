@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="style_app_main_titles" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">48sp</item>
+        <item name="android:textColor">@color/titles_color</item>
+    </style>
+
+    <style name="style_buttons" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_style</item>
+        <item name="android:textColor">@color/button_background_text</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+</resources>

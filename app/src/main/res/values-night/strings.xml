@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bttn_login_text">Entrar</string>
+    <string name="frases_title">Xenofrases</string>
+    <string name="element_default_title">Elemento</string>
+    <string name="add_frase_title">Nueva Frase</string>
+    <string name="frase_titulo">Título</string>
+    <string name="frase_text">Texto</string>
+    <string name="frase_titulo_hint">Título de la frase</string>
+    <string name="frase_autor_hint">Autor de la frase</string>
+    <string name="frase_texto_hint">Introduce el texto aquí</string>
+    <string name="add_frase_bttn_text">Crear</string>
+    <string name="info_frase_texto_hint">Texto del autor</string>
+</resources>
